@@ -11,7 +11,8 @@
 - 🎓 Estudante no **ISEP**
 - 🌱 Gosto de construir projetos completos, do backend ao frontend, passando pelas aplicações móveis
 - 🤖 Interesse em **IA aplicada**: visão computacional e modelos de deteção
-- 🌐 Experiência com **WordPress** e **Moodle** em produção
+- 🌐 Experiência com **React** e **TypeScript** no frontend, **Django** e **FastAPI** no backend e **React Native/Expo** em aplicações móveis
+- 🗄️ Experiência com **PostgreSQL**, **Redis** e **Docker**, e com sites em **WordPress** em produção
 - 🐧 Utilizador de Linux
 
 ---

@@ -22,6 +22,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 📚 **[TSRI passo a passo](https://claude.ai/artifact/GNmrRXCd2nVBUb7YbZcsqp)** | Site de estudo para a UC de Tecnologias, Sistemas e Redes Informáticas do ISEP: teoria dos três blocos, 56 geradores de exercícios com resolução passo a passo, simulações de frequência e de exame, revisão espaçada e um caderno para escrever, desenhar ou fotografar a resolução, com correção pelo Claude. | JavaScript · HTML · CSS · Python |
+| 📐 **[ALGA passo a passo](https://claude.ai/artifact/US73VaSmJT5fAZat2x9y6v)** | Site de estudo para a UC de Álgebra Linear e Geometria Analítica do ISEP: teoria pela ordem do programa, 74 geradores de exercícios com resolução passo a passo e na notação das aulas, a Prática 1 completa (183 alíneas, com as gralhas da ficha assinaladas), simulações de frequência e de exame, revisão espaçada e o mesmo caderno de resolução com correção pelo Claude. | JavaScript · HTML · CSS · Python |
 | 🌱 **DiagroNet** | Sistema de análise da saúde de plantas com diagnóstico por IA (YOLOv11), contexto meteorológico, relatórios em PDF e interface multilingue. Projeto da PAP. | Django · DRF · PostgreSQL + pgvector · Celery · Redis · FastAPI · React · Vite · Tailwind |
 | 🍽️ **GastroTask** | Aplicação de gestão de tarefas para cozinha/restauração, com versão web e para telemóvel. | React · TypeScript · Vite · React Native · Expo |
 | 🌍 **Site Global** | Site institucional com WordPress e plataforma de formação em Moodle. | PHP · WordPress · Moodle · Nginx |

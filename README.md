@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Estudante no **ISEP**
+- 🎓 Estudante do **CTeSP em Desenvolvimento Ágil de Software** no **ISEP**
 - 🌱 Gosto de construir projetos completos, do backend ao frontend, passando pelas aplicações móveis
 - 🤖 Interesse em **IA aplicada**: visão computacional e modelos de deteção
 - 🌐 Experiência com **React** e **TypeScript** no frontend, **Django** e **FastAPI** no backend e **React Native/Expo** em aplicações móveis
@@ -21,6 +21,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| 📚 **[TSRI passo a passo](https://claude.ai/artifact/GNmrRXCd2nVBUb7YbZcsqp)** | Site de estudo para a UC de Tecnologias, Sistemas e Redes Informáticas do ISEP: teoria dos três blocos, 56 geradores de exercícios com resolução passo a passo, simulações de frequência e de exame, revisão espaçada e um caderno para escrever, desenhar ou fotografar a resolução, com correção pelo Claude. | JavaScript · HTML · CSS · Python |
 | 🌱 **DiagroNet** | Sistema de análise da saúde de plantas com diagnóstico por IA (YOLOv11), contexto meteorológico, relatórios em PDF e interface multilingue. Projeto da PAP. | Django · DRF · PostgreSQL + pgvector · Celery · Redis · FastAPI · React · Vite · Tailwind |
 | 🍽️ **GastroTask** | Aplicação de gestão de tarefas para cozinha/restauração, com versão web e para telemóvel. | React · TypeScript · Vite · React Native · Expo |
 | 🌍 **Site Global** | Site institucional com WordPress e plataforma de formação em Moodle. | PHP · WordPress · Moodle · Nginx |
